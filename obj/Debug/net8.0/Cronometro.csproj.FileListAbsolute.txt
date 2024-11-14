@@ -1,0 +1,14 @@
+C:\Lucas chiodi\Projeto\Cronometro\bin\Debug\net8.0\Cronometro.exe
+C:\Lucas chiodi\Projeto\Cronometro\bin\Debug\net8.0\Cronometro.deps.json
+C:\Lucas chiodi\Projeto\Cronometro\bin\Debug\net8.0\Cronometro.runtimeconfig.json
+C:\Lucas chiodi\Projeto\Cronometro\bin\Debug\net8.0\Cronometro.dll
+C:\Lucas chiodi\Projeto\Cronometro\bin\Debug\net8.0\Cronometro.pdb
+C:\Lucas chiodi\Projeto\Cronometro\obj\Debug\net8.0\Cronometro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Lucas chiodi\Projeto\Cronometro\obj\Debug\net8.0\Cronometro.AssemblyInfoInputs.cache
+C:\Lucas chiodi\Projeto\Cronometro\obj\Debug\net8.0\Cronometro.AssemblyInfo.cs
+C:\Lucas chiodi\Projeto\Cronometro\obj\Debug\net8.0\Cronometro.csproj.CoreCompileInputs.cache
+C:\Lucas chiodi\Projeto\Cronometro\obj\Debug\net8.0\Cronometro.dll
+C:\Lucas chiodi\Projeto\Cronometro\obj\Debug\net8.0\refint\Cronometro.dll
+C:\Lucas chiodi\Projeto\Cronometro\obj\Debug\net8.0\Cronometro.pdb
+C:\Lucas chiodi\Projeto\Cronometro\obj\Debug\net8.0\Cronometro.genruntimeconfig.cache
+C:\Lucas chiodi\Projeto\Cronometro\obj\Debug\net8.0\ref\Cronometro.dll
